@@ -4,7 +4,7 @@ Poker Message-Notification System
 This project provides a simple WebSocket based notification system. It ist required, to run the LAMP based application
 komplexitaeter/poker. It will be run standalone on PHP-CLI and will be accessed from clientside under same protocol,
 host and port as the LAMP resources. So additional configuration on webserver/proxy level ist needed, to forward ws/wss
-calls to this server. Here is a simple example on nginx (hast to be modified based on your local system setup):
+calls to this server. Here is a simple example on nginx (to be modified based on your local system setup):
 
  ```
 server {
