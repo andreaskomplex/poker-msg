@@ -1,0 +1,11 @@
+{
+  "name": "komplexitaeter/poker-msg",
+  "autoload": {
+    "psr-4": {
+      "PokerMsg\\": "src"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4"
+  }
+}
