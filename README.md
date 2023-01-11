@@ -32,7 +32,8 @@ server {
  ```
 
 To install this project on your server you might follow this example (Linux ubuntu). It is recommended, to have the following
-packages up and running: php, composer, supervisor, git. Also refer to http://socketo.me/docs pls. Use e.g. apt-get to install them and follow this steps:
+packages up and running: php, composer, supervisor, git. Use e.g. apt-get to install them, also refer to http://socketo.me/docs pls 
+and then follow this steps:
 
  ```
  mkdir /home/poker/msg #create document root e.g.
